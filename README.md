@@ -1,4 +1,4 @@
-# youtube-simple-publish-drafts
+# youtube-simple-bulk-publish-drafts
 
 ## Overview
 
