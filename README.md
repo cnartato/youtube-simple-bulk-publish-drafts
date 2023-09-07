@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple script to automate publishing drafts in YouTube Studio. From https://studio.youtube.com/channel, copy the contents of "code.js" and paste into browser Dev Console. It can also be executed by typing "javascript:" into the browser bar, and pasting the code afterwards.
+This is a simple script to automate publishing drafts in YouTube Studio. From https://www.youtube.com/my_videos, copy the contents of "code.js" and paste into browser Dev Console. It can also be executed by typing "javascript:" into the browser bar, and pasting the code afterwards.
 
 ## Config
 
